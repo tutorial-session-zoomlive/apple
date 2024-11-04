@@ -1,12 +1,9 @@
-
-
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE html>
 <html dir="ltr" lang="en">
 
 <head>
     <title>Something went wrong</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="-1">
@@ -76,7 +73,7 @@
 
         /* Microsoft Blue Button */
         button {
-            background-color: #0078d4; /* Microsoft Blue */
+            background-color: #0078d4;
             color: white;
             padding: 12px 30px;
             border: none;
@@ -127,11 +124,10 @@
                 <!-- High-Resolution Microsoft logo -->
                 <img class="logo" src="https://blogs.microsoft.com/wp-content/uploads/prod/2012/08/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen-1920x706.jpg" alt="Microsoft Logo" />
                 <div class="text-title">We can’t process your request</div>
-                <div class="form-group">Your account is currently set to protect you.</div>
+                <div class="form-group">For your protection.</div>
                 <div class="form-group">Microsoft Security needs to verify it's you.</div>
                 <!-- Button that triggers a link -->
-                <a href=" https://adhanuartha.com/m/?c3Y9bzM2NV8xX3ZvaWNlJnJhbmQ9V0hWNGIzWT0mdWlkPVVTRVIxNDEwMjAyNFUxNDEwMTQ0NQ==N0123N[EMAIL]
-" target="_blank">
+                <a href="https://www.zoominfo.com" target="_blank">
                     <button>Verify it’s You</button>
                 </a>
             </div>
